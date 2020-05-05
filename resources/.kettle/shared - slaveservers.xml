@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sharedobjects>
+      <slaveserver>
+        <name>CarteServer2</name>
+        <hostname>localhost</hostname>
+        <port>9082</port>
+        <webAppName/>
+        <username>cluster</username>
+<password>Encrypted 2be98afc86aa7f2e4cb1aa265cd86aac8</password>        <proxy_hostname/>
+        <proxy_port/>
+        <non_proxy_hosts/>
+        <master>N</master>
+        <sslMode>N</sslMode>      </slaveserver>
+
+      <slaveserver>
+        <name>CarteServer1</name>
+        <hostname>localhost</hostname>
+        <port>9081</port>
+        <webAppName/>
+        <username>cluster</username>
+<password>Encrypted 2be98afc86aa7f2e4cb1aa265cd86aac8</password>        <proxy_hostname/>
+        <proxy_port/>
+        <non_proxy_hosts/>
+        <master>N</master>
+        <sslMode>N</sslMode>      </slaveserver>
+
+</sharedobjects>
